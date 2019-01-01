@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "583885986417",
+    "firebase_url": "https://examples-c2d4a.firebaseio.com",
+    "project_id": "examples-c2d4a",
+    "storage_bucket": "examples-c2d4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583885986417:android:4c36b4ecb8fcbba6",
+        "android_client_info": {
+          "package_name": "github.com.divan.txqrexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583885986417-bvthkeif560u5m3b9nn63iap7kqj8dpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfTM7nQJWqp989G3fMHE-m1-5BsEBngrQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
