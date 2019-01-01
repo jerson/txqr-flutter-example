@@ -98,7 +98,7 @@ class _CameraState extends State<Camera> {
                 Flexible(child: QRReaderPreview(controller)),
                 Container(
                   padding: EdgeInsets.all(10.0),
-                  child: Text("Resultado: ${output}"),
+                  child: Text("Result: ${output}"),
                 ),
                 Container(
                   padding: EdgeInsets.all(10.0),
@@ -109,7 +109,7 @@ class _CameraState extends State<Camera> {
                       onPressed: () async {
                         await this.reset();
                       },
-                      child: Text('Resetear')),
+                      child: Text('Reset')),
                 )
               ],
             ),
